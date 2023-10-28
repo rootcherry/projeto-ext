@@ -1,4 +1,4 @@
-# Brinquedoteca Digital Multidisciplinar 
+# Brinquedoteca Digital Multidisciplinar
 
 # Sobre o projeto
 
@@ -6,29 +6,31 @@ O projeto de extensão **"Brinquedoteca Digital Multidisciplinar"** tem como obj
 
 # Sugestões de apps
 
-Aplicativos para comunicação entre os alunos 
+Aplicativos para comunicação entre os alunos
 
-Aplicativos de desafios e questões 
+Aplicativos de desafios e questões
 
-Softwares de ilustração 
+Softwares de ilustração
 
-Plataformas gamificadas 
+Plataformas gamificadas
 
-Softwares de atividades práticas: alfabetização, matemática, geografia, ciências, história e arte (quiz, desafios, racha cuca, charadas ...) 
+Softwares de atividades práticas: alfabetização, matemática, geografia, ciências, história e arte (quiz, desafios, racha cuca, charadas ...)
 
 ## Layout
 
 ## Modelo conceitual
 
 # Tecnologias utilizadas
+
 ## Back end
+
 - JavaScript
 - NodeJS
+
 ## Front end
-- HTML / CSS / JS
+
 - ReactJS
-## Implantação em produção
 
-# Como executar o projeto
+## Visualizar projeto:
 
-...
+- [Quiz]()
