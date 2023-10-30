@@ -16,10 +16,6 @@ Plataformas gamificadas
 
 Softwares de atividades práticas: alfabetização, matemática, geografia, ciências, história e arte (quiz, desafios, racha cuca, charadas ...)
 
-## Layout
-
-## Modelo conceitual
-
 # Tecnologias utilizadas
 
 ## Back end
@@ -31,6 +27,11 @@ Softwares de atividades práticas: alfabetização, matemática, geografia, ciê
 
 - ReactJS
 
+## API
+
+- JSON
+- Heroku Server
+
 ## Visualizar projeto:
 
-- [Quiz]()
+- [Quiz](https://aprendizado-qs.netlify.app/)
