@@ -35,3 +35,4 @@ Softwares de atividades práticas: alfabetização, matemática, geografia, ciê
 ## Visualizar projeto:
 
 - [Quiz](https://aprendizado-qs.netlify.app/)
+- [SOP](https://aprendizado-sop.netlify.app/)
